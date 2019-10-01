@@ -1,1 +1,2 @@
 chto to
+ new_style/.
